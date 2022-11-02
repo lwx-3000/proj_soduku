@@ -1,4 +1,4 @@
 # proj_soduku
 
-Personal Project: Sudoku
+Personal Project: Sudoku. 
 Don't share unauthorisedly.
